@@ -7,8 +7,6 @@ import SearchBar from './components/searchbar/SearchBar'
 import jobData from '../public/jobDummyData'
 function App() {
   
-console.log(jobData);
-
   return (
     <div>
       <Navbar/>
